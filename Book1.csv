@@ -1,0 +1,12 @@
+﻿port code,service code,vessel code ,vessel name,next port,schedule arrival,gsis sch arr,schedule dep,gsis sch dep,buffer,time,coment
+DEBRVTM,AE10,1NM,MARSTAL MAERSK,WHILEMSHAVEN,2/13/18 1:00 PM,SCH,2/13/18 7:00 PM,SCH,5,22:10,ETD 02/1500
+DEBRVTM,AE7/CSK,788,Ebba Maersk,Hamburg,2/13/18 10:00 PM,ACT,2/14/18 10:00 PM,SCH,12,,ops started 2 hrs later due lash issues
+DEHAMEK,AE5,544,Majestic,Tilbury,2/13/18 3:00 PM,sch,2/15/18 10:00 PM,sch,12,,"etc 15/0100, Sailing 03:00 due to tide"
+GBTBY01,AE1O,1NM,MARSTAL MAERSK,Rotterdam,2/14/18 3:00 PM,act,2/15/18 10:00 PM,sch,14,22:10,etd 15/06:00
+DEBRVTM,AE10,1NM,Maersk Penang,WHILEMSHAVEN,2/13/18 1:00 PM,SCH,2/13/18 7:00 PM,SCH,5,22:10,ETD 02/1500
+DEBRVTM,AE7/CSK,788,emma,Hamburg,2/13/18 10:00 PM,ACT,2/14/18 10:00 PM,SCH,12,,ops started 2 hrs later due lash issues
+DEHAMEK,AE5,544,vasil,Tilbury,2/13/18 3:00 PM,sch,2/15/18 10:00 PM,sch,12,,"etc 15/0100, Sailing 03:00 due to tide"
+GBTBY01,AE1O,1NM,pavlina,Rotterdam,2/14/18 3:00 PM,act,2/15/18 10:00 PM,sch,14,22:10,etd 15/06:00
+DEBRVTM,AE10,1NM,MARSTAL MAERSK,WHILEMSHAVEN,2/13/18 1:00 PM,SCH,2/13/18 7:00 PM,SCH,5,22:10,could not sail on time 
+DEHAMFRU,AE7/CSK,788,Ebba Maersk,Hamburg,2/15/18 10:00 PM,ACT,2/16/18 10:00 PM,SCH,12,,ops started 2 hrs later due lash issues
+DEHAMEK,AE5,544,VANESA,Tilbury,2/13/18 3:00 PM,sch,2/15/18 10:00 PM,sch,12,,"etc 15/0100, Sailing 03:00 due to tide"
